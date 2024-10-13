@@ -1,18 +1,19 @@
-- 👋 Hi, I’m @Duc18-code
-- 👀 Ông trùm share hack ...
-- 🌱 16+ làm bố thiên hạ ...
-- 💞️ Đam mê viết code Lua , Html ...
-- 📫 Thẩm du mọi web ...
-- 😄 Vui tính , yêu đời .
-- ⚡ Ông kẹ 
+<p align="center">
+  <img src="https://steemitimages.com/DQmZCo76MUSeg8WNYUqr9UMGig3kufJWfENY337KfSbpoJC/17.gif">
+</p>
 
-<!---
-Duc18-code/Duc18-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-     __                                    _       _        ___            
-  /\ \ \__ _ _   _ _   _  ___ _ __   /\/\ (_)_ __ | |__    /   \_   _  ___ 
- /  \/ / _` | | | | | | |/ _ \ '_ \ /    \| | '_ \| '_ \  / /\ / | | |/ __|
-/ /\  / (_| | |_| | |_| |  __/ | | / /\/\ \ | | | | | | |/ /_//| |_| | (__ 
-\_\ \/ \__, |\__,_|\__, |\___|_| |_\/    \/_|_| |_|_| |_/___,'  \__,_|\___|
-       |___/       |___/     
+<h1 align="center">Extreme</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ExtremeAntonis&color=blueviolet">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ExtremeAntonis&show_icons=true&theme=radical">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExtremeAntonis&layout=compact&theme=radical">
+</p>
+
+<h1 align="center"></h1>
